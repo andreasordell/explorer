@@ -10,4 +10,5 @@
 ## Principles
 
 * [Super principles](principles/super-principles.md)
+* [Seven Principles of Self Governance](principles/seven-principles-of-self-governance.md)
 
