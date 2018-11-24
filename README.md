@@ -1,2 +1,6 @@
-# Initial page
+---
+description: Introduction to the Galaxy.
+---
+
+# Galaxy Explorer handbook
 
